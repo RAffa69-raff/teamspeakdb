@@ -12,7 +12,7 @@ services:
       TS3SERVER_DB_SQLCREATEPATH: create_mariadb
       TS3SERVER_DB_HOST: teamspeak-db
       TS3SERVER_DB_USER: root
-      TS3SERVER_DB_PASSWORD: aD62%ZRx9
+      TS3SERVER_DB_PASSWORD: a54!uzB0B+zi
       TS3SERVER_DB_NAME: teamspeak
       TS3SERVER_DB_WAITUNTILREADY: 30
       TS3SERVER_LICENSE: accept
@@ -24,7 +24,7 @@ services:
     image: mariadb
     restart: unless-stopped
     environment:
-      MYSQL_ROOT_PASSWORD: aD62%ZRx9
+      MYSQL_ROOT_PASSWORD: a54!uzB0B+zi
       MYSQL_DATABASE: teamspeak
     volumes:
       - ./sql:/var/lib/mysql/
