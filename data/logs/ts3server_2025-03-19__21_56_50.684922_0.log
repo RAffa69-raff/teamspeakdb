@@ -1,0 +1,21 @@
+2025-03-19 21:56:50.684949|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2025-03-19 21:56:50.699025|INFO    |ServerLibPriv |   |SystemInformation: Linux 6.12.5-linuxkit #1 SMP PREEMPT_DYNAMIC Tue Jan 21 10:25:35 UTC 2025 x86_64 Binary: 64bit
+2025-03-19 21:56:50.701182|INFO    |ServerLibPriv |   |Using hardware aes
+2025-03-19 21:56:50.704869|INFO    |DatabaseQuery |   |dbPlugin name:    MariaDB plugin, version 3, (c)TeamSpeak Systems GmbH
+2025-03-19 21:56:50.707521|INFO    |DatabaseQuery |   |dbPlugin version: 2
+2025-03-19 21:56:57.896358|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2025-03-19 21:56:57.903883|INFO    |Accounting    |   |Licensing Information
+2025-03-19 21:56:57.904574|INFO    |Accounting    |   |licensed to       : Anonymous
+2025-03-19 21:56:57.905224|INFO    |Accounting    |   |type              : No License
+2025-03-19 21:56:57.905868|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2025-03-19 21:56:57.906677|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2025-03-19 21:56:57.907381|INFO    |Accounting    |   |max virtualservers: 1
+2025-03-19 21:56:57.908195|INFO    |Accounting    |   |max slots         : 32
+2025-03-19 21:56:58.608455|INFO    |              |   |Puzzle precompute time: 647
+2025-03-19 21:56:58.615846|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2025-03-19 21:56:58.636335|INFO    |Query         |   |Using a query thread pool size of 2
+2025-03-19 21:56:58.750169|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2025-03-19 21:56:58.770464|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2025-03-19 21:56:58.775591|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 0.0.0.0/32, ::1/128, 
+2025-03-19 21:58:08.776702|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2025-03-19 22:07:37.313919|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

@@ -1,0 +1,4 @@
+2025-03-19 22:11:07.678346|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2025-03-19 23:14:18.142780|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2025-03-19 23:14:18.144944|INFO    |VirtualServerBase|1  |client disconnected 'slenezi'(id:3) reason 'reasonmsg=connection lost'
+2025-03-19 23:43:03.580544|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,19 @@
+2025-03-20 00:32:17.476785|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2025-03-20 00:32:17.521076|INFO    |ServerLibPriv |   |SystemInformation: Linux 6.12.5-linuxkit #1 SMP PREEMPT_DYNAMIC Tue Jan 21 10:25:35 UTC 2025 x86_64 Binary: 64bit
+2025-03-20 00:32:17.523776|INFO    |ServerLibPriv |   |Using hardware aes
+2025-03-20 00:32:17.568683|INFO    |DatabaseQuery |   |dbPlugin name:    MariaDB plugin, version 3, (c)TeamSpeak Systems GmbH
+2025-03-20 00:32:17.575730|INFO    |DatabaseQuery |   |dbPlugin version: 2
+2025-03-20 00:32:26.053492|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2025-03-20 00:32:26.073391|INFO    |Accounting    |   |Licensing Information
+2025-03-20 00:32:26.075284|INFO    |Accounting    |   |licensed to       : Anonymous
+2025-03-20 00:32:26.076506|INFO    |Accounting    |   |type              : No License
+2025-03-20 00:32:26.077697|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2025-03-20 00:32:26.079247|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2025-03-20 00:32:26.080805|INFO    |Accounting    |   |max virtualservers: 1
+2025-03-20 00:32:26.081777|INFO    |Accounting    |   |max slots         : 32
+2025-03-20 00:32:27.213371|INFO    |              |   |Puzzle precompute time: 1023
+2025-03-20 00:32:27.253710|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2025-03-20 00:32:27.304399|INFO    |Query         |   |Using a query thread pool size of 2
+2025-03-20 00:32:27.502071|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2025-03-20 00:32:27.578812|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2025-03-20 00:32:27.587304|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 

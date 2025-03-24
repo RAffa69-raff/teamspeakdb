@@ -1,0 +1,8 @@
+2025-03-20 18:17:03.522310|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2025-03-20 18:41:43.924863|INFO    |VirtualServerBase|1  |client connected 'jajajajaja'(id:3) from 192.168.65.1:41728
+2025-03-20 20:48:23.072066|INFO    |VirtualServerBase|1  |client disconnected 'jajajajaja'(id:3) reason 'reasonmsg=Verlassen'
+2025-03-20 20:48:29.475370|INFO    |VirtualServerBase|1  |client connected 'ede'(id:3) from 192.168.65.1:41728
+2025-03-20 20:48:48.230194|INFO    |VirtualServerBase|1  |client connected 'eeeeeee'(id:4) from 192.168.65.1:47186
+2025-03-20 21:13:42.291651|INFO    |VirtualServerBase|1  |client disconnected 'ede'(id:3) reason 'reasonmsg=Verlassen'
+2025-03-20 21:29:45.658046|INFO    |VirtualServerBase|1  |client disconnected 'eeeeeee'(id:4) reason 'reasonmsg=Server Shutdown!'
+2025-03-20 21:29:45.659259|INFO    |VirtualServerBase|1  |stopped

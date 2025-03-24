@@ -1,0 +1,6 @@
+2025-03-20 00:37:49.845551|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2025-03-20 00:38:55.158152|INFO    |VirtualServerBase|1  |client connected 'jajajajaja'(id:3) from 192.168.65.1:44664
+2025-03-20 00:39:06.930189|INFO    |VirtualServerBase|1  |client connected 'kokok'(id:4) from 192.168.65.1:31671
+2025-03-20 00:39:38.269647|INFO    |VirtualServerBase|1  |client disconnected 'kokok'(id:4) reason 'reasonmsg=Server Shutdown!'
+2025-03-20 00:39:38.270800|INFO    |VirtualServerBase|1  |client disconnected 'jajajajaja'(id:3) reason 'reasonmsg=Server Shutdown!'
+2025-03-20 00:39:38.273154|INFO    |VirtualServerBase|1  |stopped

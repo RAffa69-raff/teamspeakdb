@@ -1,0 +1,8 @@
+2025-03-19 20:09:21.024638|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2025-03-19 20:09:21.037526|WARNING |VirtualServer |1  |--------------------------------------------------------
+2025-03-19 20:09:21.038472|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2025-03-19 20:09:21.039494|WARNING |VirtualServer |1  |token=bfVhiOxmvo5+0eTPHIvlnUO3GDRwLi3nip7RRq3m
+2025-03-19 20:09:21.040787|WARNING |VirtualServer |1  |--------------------------------------------------------
+2025-03-19 20:59:49.434153|INFO    |VirtualServer |1  |client 'Tomatensaft'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2025-03-19 20:59:49.436545|INFO    |VirtualServer |1  |client 'Tomatensaft'(id:3) used privilege key 'bfVhiOxmvo5+0eTPHIvlnUO3GDRwLi3nip7RRq3m' and was added to servergroup 'Server Admin'(id:6)
+2025-03-19 21:56:16.853710|INFO    |VirtualServerBase|1  |stopped
