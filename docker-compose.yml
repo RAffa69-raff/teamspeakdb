@@ -12,7 +12,7 @@ services:
       TS3SERVER_DB_SQLCREATEPATH: create_mariadb
       TS3SERVER_DB_HOST: teamspeak-db
       TS3SERVER_DB_USER: root
-      TS3SERVER_DB_PASSWORD: a54!uzB0B+zi
+      TS3SERVER_DB_PASSWORD: meinpasswort1234
       TS3SERVER_DB_NAME: teamspeak
       TS3SERVER_DB_WAITUNTILREADY: 30
       TS3SERVER_LICENSE: accept
@@ -24,7 +24,7 @@ services:
     image: mariadb
     restart: unless-stopped
     environment:
-      MYSQL_ROOT_PASSWORD: a54!uzB0B+zi
+      MYSQL_ROOT_PASSWORD: meinpasswort1234
       MYSQL_DATABASE: teamspeak
     volumes:
       - ./sql:/var/lib/mysql/
@@ -35,6 +35,6 @@ services:
     ports:
       - 3000:3000
     environment:
-      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_SECURITY_ADMIN_PASSWORD=passwort1234
     volumes:
       - ./grafana-data:/var/lib/grafana
